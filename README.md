@@ -16,7 +16,7 @@
 
 - Clonar repositório git:
 ```
-git clone 
+git clone https://github.com/Edimar-Dias-dos-Santos/picpay-desafio-backend.git
 ```
 - Executar o Kafka:
 ```
